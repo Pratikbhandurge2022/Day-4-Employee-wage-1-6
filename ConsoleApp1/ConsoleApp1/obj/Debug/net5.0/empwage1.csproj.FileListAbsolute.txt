@@ -1,0 +1,16 @@
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.exe
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.deps.json
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.runtimeconfig.json
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.runtimeconfig.dev.json
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.dll
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\empwage1.pdb
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.csproj.AssemblyReference.cache
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.AssemblyInfoInputs.cache
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.AssemblyInfo.cs
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.csproj.CoreCompileInputs.cache
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.dll
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\empwage1.dll
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.pdb
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\empwage1.genruntimeconfig.cache
+D:\PP\day 4\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\empwage1.dll
