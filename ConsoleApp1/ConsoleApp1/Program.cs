@@ -15,33 +15,43 @@ namespace ConsoleApp1
 
         public void GetEmployeeWage()
         {
-
+            int Totalwage = 0;
             int WagePerHr = 20;
+            int NumberOfDaysPerMonth = 20;
+            int Hrs = 100;
+            int WorkingDays = 0;
+            int NoOfHrs = 0;
+            while (WorkingDays <= 20 && NoOfHrs <= Hrs)
+            {
+                WorkingDays++;
+                Random random = new Random();
+                int number = random.Next(0, 3);
+                Program program = new Program();
+                int empHrs = program.GetEmpHrs(number);
+                NoOfHrs = NoOfHrs + empHrs;
 
-            Random random = new Random();
-            int number = random.Next(0, 3);
-            Program program = new Program();
-            int empHrs = program.GetEmpHrs(number);
-
-            int Wage = WagePerHr * empHrs;
-
-            Console.WriteLine("Total wage is " + Wage);
+                Totalwage = Totalwage + WagePerHr * empHrs;
+            }
+            Console.WriteLine("Total wage is " + Totalwage);
         }
 
         public int GetEmpHrs(int number)
         {
             int empHrs = 0;
-
-            if (number == IsFullTime)
+            switch (number)
             {
-                Console.WriteLine(number);
-                empHrs = 8;
-            }
+                case IsFullTime:
+                    empHrs = 8;
 
-            else
-            {
-                empHrs = 0;
-                Console.WriteLine(number);
+                    break;
+                case IsPartTime:
+                    empHrs = 4;
+                    break;
+                case IsAbsent:
+                    empHrs = 0;
+                    break;
+
+
             }
             return empHrs;
 
